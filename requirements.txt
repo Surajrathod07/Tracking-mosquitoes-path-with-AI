@@ -1,0 +1,9 @@
+ultralytics==8.0.20
+torch==2.1.0
+opencv-python
+numpy
+scipy
+filterpy
+lap
+deep_sort_realtime
+gitpython
