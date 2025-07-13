@@ -54,7 +54,3 @@ Tracking Mosquitoes path with AI/
 - Suraj Rathod  
 - Guided by: Arvind Sir, Chandan Sir  
 - Organization: CloudXcent Innovations
-
-## 📄 License
-
-Free to use for educational and research purposes.
